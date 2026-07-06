@@ -388,7 +388,7 @@
       ],
       "allowedVersions": "<3.2.0",
       "matchPackageNames": [
-        "Microsoft.AspNetCore.{/,}**"
+        "Microsoft.AspNetCore.*"
       ]
     },
     {
@@ -397,7 +397,7 @@
       ],
       "allowedVersions": "<2.2.0",
       "matchPackageNames": [
-        "Microsoft.AspNetCore.{/,}**"
+        "Microsoft.AspNetCore.*"
       ]
     },
     {
